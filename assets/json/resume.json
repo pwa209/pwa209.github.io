@@ -1,61 +1,54 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Peng Wang",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "peng.wangpsy@gmail.com",
+    "phone": "+44 07529957244 ",
+    "url": "https://research.vu.nl/en/persons/peng-wang",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "De Boelelaan 1105",
+      "postalCode": "1081 HV",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "region": "the Netherlands"
+    }
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Qingdao University, China",
+      "location": "China",
+      "area": "English (Psycholinguistics)",
+      "studyType": "BA"
+    },
+    {
+      "institution": "Missouri State University, the U.S.",
+      "location": "the U.S.",
+      "area": "Language Production: Speaking",
+      "studyType": "Visiting Student"
+    },
+    {
+      "institution": "University of Edinburgh, the U.K.",
+      "location": "the U.K.",
+      "area": "Education (research)",
+      "studyType": "MSc"
+    },
+    {
+      "institution": "University of Oxford, the U.K. ",
+      "location": "the U.K.",
+      "area": "(Basics) Machine Learning in Public Health and Finance",
+      "studyType": "Visiting Stay"
+    },
+    {
+      "institution": "Vrije Universiteit Amsterdam, the Netherlands",
+      "location": "the Netherlands",
+      "area": "Philosophy of Sciences, Faculty of Social Sciences and Humanities",
+      "studyType": "Ph.D (Joint) Visiting Fellow"
+    },
+    {
+      "institution": "Erasmus University Rotterdam, the Netherlands",
+      "location": "the Netherlands",
+      "area": " Department of Psychology Education and Child Studies, ESSB",
+      "studyType": "Ph.D. (Joint)"
     }
   ],
   "awards": [
